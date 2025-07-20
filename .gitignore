@@ -1,0 +1,32 @@
+# Build artifacts
+keepass-cloud-sync
+keepass-cloud-sync-debug
+*.o
+*.so
+*.a
+*.dylib
+
+# Nix build results
+result*
+.devenv/
+.devenv.flake.nix
+
+# IDE/Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Runtime/config files (don't commit personal configs)
+*.kdbx
+rclone.conf
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+.cache/
