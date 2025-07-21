@@ -126,10 +126,10 @@ The app includes **built-in OAuth configuration** - no manual rclone setup requi
 
 **Supported Providers:**
 - ✅ **Google Drive**: Full OAuth integration with step-by-step setup guide
-- 🔄 **Dropbox**: Credential storage (OAuth coming soon)
-- 🔄 **OneDrive**: Credential storage (OAuth coming soon) 
-- 🔄 **Box**: Credential storage (OAuth coming soon)
-- 🔄 **pCloud**: Credential storage (OAuth coming soon)
+- 🔄 **Dropbox**: Untested
+- 🔄 **OneDrive**: Untested
+- 🔄 **Box**: Untested
+- 🔄 **pCloud**: Untested
 
 **Manual rclone setup** (alternative):
 ```bash
